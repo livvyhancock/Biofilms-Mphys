@@ -1,5 +1,5 @@
 # biofilms
-BULK OF CODE STILL ON GOOGLE COLAB
+BULK OF CODE STILL ON GOOGLE COLAB.//
 The code was developed to fit equivalent circuit models to
 data, outputting the parameter values of elements in the equivalent
 circuit that optimised the fit. The code is designed
