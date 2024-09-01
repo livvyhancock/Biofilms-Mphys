@@ -20,9 +20,7 @@ start_line = 57  # Change this to the desired line number
 with open(FILE_NAME, 'r') as file:
     for line_number, line in enumerate(file):
         if line_number < start_line:
-            continue  # Skip lines until the desired starting line is reached
-        # Process or print the lines starting from 'start_line'
-        #print(line, end="")  # Print the line without an extra newline
+            continue 
 
 INPUT_FILE = open(FILE_NAME, "r")
 
